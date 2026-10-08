@@ -1,0 +1,54 @@
+{
+  "newOriginalRoot": true,
+  "privateHistoryImported": false,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "902c381e10952666ce332c5b23bdce762688e06d2f950702c5d79cce98014b9c"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "180f113d59092875c7e18ed1a690b38a588b22071d8acae171fde8acd542b41c"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "fa3affa18e45cc3f2227137c9ecbfe12fecf17969defa0c872ee65f984f1a0be"
+    },
+    {
+      "path": "README.md",
+      "sha256": "23051e3ded0e18c157524b51854c648ca50563867384c619536a054769e5c7d1"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "d4b7d9847767873df6acd895c1042db20c805d5b119ea291f9296514b07a450e"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "sha256": "54eb19bac7881db820929b2f4630e07086c482a584af2d03d37a7c5844714095"
+    },
+    {
+      "path": "docs/PUBLIC_FILE_ALLOWLIST.md",
+      "sha256": "438799d044181ef3134151c10394df7ba0af9b292c8dbc4c73df0e4640a71d17"
+    },
+    {
+      "path": "docs/THREAT_MODEL.md",
+      "sha256": "0a82da7501c939786003671307cdb62e538250b33cfa58cd19a5baf521ae6f5d"
+    },
+    {
+      "path": "package.json",
+      "sha256": "24f6453f20cb24b37f5c8acc3b1a4fc547425b9db23a6a254f3758649b34db94"
+    },
+    {
+      "path": "scripts/verify-manifest.mjs",
+      "sha256": "d8a3bfc147425c43b9a1edec299c61c5cdf442b9a3fe30f2a0ac920b99813a63"
+    },
+    {
+      "path": "src/server.mjs",
+      "sha256": "79abdeb53570586be314a4fbba709e1fedb0e9e9468bdb6b692b5fa3ef99f1b2"
+    },
+    {
+      "path": "tests/protocol.test.mjs",
+      "sha256": "d7127abf27e4cc584754acd89b6251732acc0e96c39915933128d098797550c8"
+    }
+  ]
+}

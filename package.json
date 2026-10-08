@@ -1,0 +1,15 @@
+{
+  "name": "videira-mcp-community",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline read-only MCP reference server",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check src/server.mjs && node --test tests/*.test.mjs && node scripts/verify-manifest.mjs"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}
