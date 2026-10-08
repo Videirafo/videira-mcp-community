@@ -4,23 +4,11 @@
   "files": [
     {
       "path": ".github/workflows/ci.yml",
-      "sha256": "902c381e10952666ce332c5b23bdce762688e06d2f950702c5d79cce98014b9c"
+      "sha256": "c1c6fbedf90fe8016694ee6e23bef9de279430dc8055f734577e5ed0b1f4fa02"
     },
     {
       "path": "CONTRIBUTING.md",
       "sha256": "180f113d59092875c7e18ed1a690b38a588b22071d8acae171fde8acd542b41c"
-    },
-    {
-      "path": "LICENSE",
-      "sha256": "fa3affa18e45cc3f2227137c9ecbfe12fecf17969defa0c872ee65f984f1a0be"
-    },
-    {
-      "path": "README.md",
-      "sha256": "23051e3ded0e18c157524b51854c648ca50563867384c619536a054769e5c7d1"
-    },
-    {
-      "path": "SECURITY.md",
-      "sha256": "d4b7d9847767873df6acd895c1042db20c805d5b119ea291f9296514b07a450e"
     },
     {
       "path": "docs/ARCHITECTURE.md",
@@ -28,19 +16,35 @@
     },
     {
       "path": "docs/PUBLIC_FILE_ALLOWLIST.md",
-      "sha256": "438799d044181ef3134151c10394df7ba0af9b292c8dbc4c73df0e4640a71d17"
+      "sha256": "674aaea49ec74f3f06a911eae2c2d1a52d249cc78abe0c008dca060bd5112ad7"
     },
     {
       "path": "docs/THREAT_MODEL.md",
       "sha256": "0a82da7501c939786003671307cdb62e538250b33cfa58cd19a5baf521ae6f5d"
     },
     {
+      "path": "LICENSE",
+      "sha256": "fa3affa18e45cc3f2227137c9ecbfe12fecf17969defa0c872ee65f984f1a0be"
+    },
+    {
       "path": "package.json",
-      "sha256": "24f6453f20cb24b37f5c8acc3b1a4fc547425b9db23a6a254f3758649b34db94"
+      "sha256": "86560820b955f2fd2dd2d066e6b1e47ffc2159f1780062bb87133658e87ea4c1"
+    },
+    {
+      "path": "README.md",
+      "sha256": "23051e3ded0e18c157524b51854c648ca50563867384c619536a054769e5c7d1"
     },
     {
       "path": "scripts/verify-manifest.mjs",
       "sha256": "d8a3bfc147425c43b9a1edec299c61c5cdf442b9a3fe30f2a0ac920b99813a63"
+    },
+    {
+      "path": "scripts/verify-public-history.mjs",
+      "sha256": "0e3a6164d96a8875df81b5f4b0b0b3376b346575f6b8da2fbe3aef3897cc6f40"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "d4b7d9847767873df6acd895c1042db20c805d5b119ea291f9296514b07a450e"
     },
     {
       "path": "src/server.mjs",
@@ -49,6 +53,13 @@
     {
       "path": "tests/protocol.test.mjs",
       "sha256": "d7127abf27e4cc584754acd89b6251732acc0e96c39915933128d098797550c8"
+    },
+    {
+      "path": "tests/public-history.test.mjs",
+      "sha256": "177628dbc5f44a0c631662d74ffd99738276399339f27aa3ab1953efa3cf07bd"
     }
+  ],
+  "historicalAllowedPaths": [
+    ".vscode/extensions.json"
   ]
 }
